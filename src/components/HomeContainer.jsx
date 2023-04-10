@@ -19,10 +19,7 @@ const HomeContainer = () => {
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-          eaque fugit distinctio est nam voluptatum architecto, porro iusto
-          deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-          suscipit!
+        A vast number of foods are both healthy and tasty. By filling your plate with fruits, vegetables, quality protein sources, and other whole foods, you’ll have meals that are colorful, versatile, and good for you.
         </p>
 
         
